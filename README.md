@@ -18,7 +18,7 @@ This is a server-based application built with Node.js and Express. It uses vario
 
 
 ## **Deployed links**
-frontend : [Link](https://reach-inbox-assignment.vercel.app/)
+frontend : [Link](https://himanshuranjan977.github.io/ReachInbox.ai/)
 <br>
 Backend : [Link](https://www.postman.com/orange-robot-40524/workspace/reachinbox-assignment/collection/25346896-b3076290-4121-4ea0-8aea-c5a2378924aa?action=share&creator=25346896)
 <br>
