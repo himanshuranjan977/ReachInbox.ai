@@ -26,7 +26,7 @@ API documentation build with postman documentation - [Link](https://documenter.g
 
 
 
-## *Technologies used**
+## **Technologies used**
 - Node.js
 - Express.js
 - OpenAI
