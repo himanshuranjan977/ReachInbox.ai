@@ -10,7 +10,7 @@ This is a server-based application built with Node.js and Express. It uses vario
 ## deployed links :
 frontend : [Link](https://reach-inbox-assignment.vercel.app/)
 <br>
-Backend : [Link]((https://www.postman.com/orange-robot-40524/workspace/reachinbox-assignment/collection/25346896-b3076290-4121-4ea0-8aea-c5a2378924aa?action=share&creator=25346896)]
+Backend : [Link](https://www.postman.com/orange-robot-40524/workspace/reachinbox-assignment/collection/25346896-b3076290-4121-4ea0-8aea-c5a2378924aa?action=share&creator=25346896)]
 <br>
 API documentation build with postman documentation - [Link](https://documenter.getpostman.com/view/25346896/2sA3s6FA6L)]
 
