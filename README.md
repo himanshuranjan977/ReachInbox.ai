@@ -1,13 +1,23 @@
-# ReachInBox Assignment
+### ReachInBox Assignment
+## **Table of Contents**
+- [**Server**](#Server)
+- [**Deployed link**](#deployed-link)
+- [**Technologies Used**](#technologies-used)
+- [**npm packages used**](#npm-packages-used)
+- [**Installation setup**](#Installation-setup)
+- [**Running the server**](#Running-the-server)
+- [**API Endpoints**](#API-Endpoints)
+- [**Sample .env sample**](#Sample-.env-sample)
+- [**Questions**](#questions)
 
-## Server
+## **Server**
 The assignment is to build a tool that will parse and check the emails in a Google and Outlook email ID, and
 respond to the e-mails based on the context using AI. Use BullMQ as the tasks scheduler
 This is a server-based application built with Node.js and Express. It uses various packages such as  `openai` for AI functionalities, `googleapis` for Google APIs, and `axios` for HTTP requests and `bullMQ` to process queues.
 ![image](src.png)
 
 
-## deployed links :
+## **Deployed links**
 frontend : [Link](https://reach-inbox-assignment.vercel.app/)
 <br>
 Backend : [Link](https://www.postman.com/orange-robot-40524/workspace/reachinbox-assignment/collection/25346896-b3076290-4121-4ea0-8aea-c5a2378924aa?action=share&creator=25346896)]
@@ -16,13 +26,13 @@ API documentation build with postman documentation - [Link](https://documenter.g
 
 
 
-# technologies used:
+## *Technologies used**
 - Node.js
 - Express.js
 - OpenAI
 - Google APIs
 - Microsoft Graph API
-# npm packages used
+## **npm packages used**
 - dotenv
 - Axios
 - bullMQ
@@ -33,7 +43,7 @@ API documentation build with postman documentation - [Link](https://documenter.g
 
 <br>
 
-## Installation setup
+## **Installation setup**
 1. Clone the repository to your local machine
 ```bash
 git clone https://github.com/himanshuranjan977/ReachInbox.ai
@@ -45,7 +55,7 @@ cd server
 3. Run `npm install` to install all the dependencies
 4. Create a `.env` file in the root directory with the same IDs as specified in the documentation.
 
-## Running the server
+## **Running the server**
 1. To start the server, run the following command in your terminal
 ```bash
 npm start
@@ -58,7 +68,7 @@ or we can use backend deployed link also.
 npm run server
 ```
 
-## API Endpoints
+## **API Endpoints**
 
 ### For Google's OAuth2.0:
 - `https://reachinbox-assignment-4rf9.onrender.com/auth/google` - GET for google authentication
@@ -112,7 +122,7 @@ npm run server
 }
 ```
 
-## Sample .env sample:
+## **Sample .env sample**
 ```
 PORT = ***
 GOOGLE_CLIENT_ID = ***
@@ -127,3 +137,7 @@ AZURE_CLIENT_ID = ***
 AZURE_CLIENT_SECRET = *** 
 AZURE_TENANT_ID = ***
 ```
+## **Questions**
+
+* Contact me on my GitHub profile: [Himanshu's GitHub](https://github.com/himanshuranjan977)
+  
